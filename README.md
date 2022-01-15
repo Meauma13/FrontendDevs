@@ -48,4 +48,4 @@ Users should be able to:
 ## Author
 
 - Website - https://www.nanosoftechsolutions.com
-- Twitter - https://www.twitter.com/13*Xquite
+- Twitter - https://www.twitter.com/13Xquite
