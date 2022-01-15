@@ -175,6 +175,10 @@ li {
         flex-direction: column;
     }
 
+.sub-header {
+padding-right: 10px;
+}
+
     .section-cost {
         width: 285px;
         height: 225px;
