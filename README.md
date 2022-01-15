@@ -47,5 +47,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.nanosoftechsolutions.com)
-- Twitter - [@yourusername](https://www.twitter.com/13*Xquite)
+- Website - https://www.nanosoftechsolutions.com
+- Twitter - https://www.twitter.com/13*Xquite
